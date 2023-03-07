@@ -1,2 +1,2 @@
 # pac-demo
-Pipeline as code demo app
+Pipeline as code demo application
